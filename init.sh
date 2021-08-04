@@ -1,4 +1,4 @@
 #!/bin/sh
 echo "hoge"
-echo "piyo"
+echo "tyome"
 exit 0
